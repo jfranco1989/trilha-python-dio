@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod, abstractclassmethod, abstractproperty
 import textwrap
 from datetime import datetime
 
+
 class Conta:
     def __init__(self, numero, cliente):
         self._saldo = 0
