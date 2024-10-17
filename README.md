@@ -12,7 +12,8 @@ Repositório de desafios do curso de Python da DIO.
 
 ## Desafios
 
-* Desafio 1 - Criar uma aplicação de sistema bancário com as operações: sacar, depositar e visualizar extrato.
+* ![Desafio 1](https://github.com/jfranco1989/trilha-python-dio/tree/main/desafio1) - Criar uma aplicação de sistema bancário com as operações: sacar, depositar e visualizar extrato.
+* ![Desafio 2](https://github.com/jfranco1989/trilha-python-dio/tree/main/desafio2) - Otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python.
 
 
 
